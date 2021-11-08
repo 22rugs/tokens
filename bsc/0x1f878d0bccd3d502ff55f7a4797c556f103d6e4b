@@ -1,0 +1,11 @@
+{
+ "name": "Squidanomics",
+ "website": "https://squidanomics.xyz",
+ "description": "Squidanomics is a BUSD rewards token on the Binance Smart Chain. Squidanomics is where Squid Game, NFTs, Gaming, and Passive Income all come together into one token.",
+ "explorer": "https://bscscan.com/token/0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b",
+ "type": "BEP20",
+ "symbol": "SQUID",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1f878d0bccd3d502ff55f7a4797c556f103d6e4b"
+}
